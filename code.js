@@ -1,10 +1,5 @@
 window.addEventListener("DOMContentLoaded", init);
 
 function init() {
-    let a = 'Hello world'
-        // alert(a);
-    console.log(a);
-
-
-
+    // window.location.href = "https://tilissound.com"
 }
