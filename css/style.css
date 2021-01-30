@@ -4,6 +4,12 @@ body {
     font-family: Montserrat;
 }
 
+header,
+footer,
+section {
+    border-bottom: 1px solid black;
+}
+
 
 /* .topbar {
     display: flex;
